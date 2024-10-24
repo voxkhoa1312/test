@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS_ClothingSales", "SSAS_ClothingSales\SSAS_ClothingSales.dwproj", "{8B44DE8A-20AA-4D5C-8418-96C1193AD12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B44DE8A-20AA-4D5C-8418-96C1193AD12D}.Development|Default.ActiveCfg = Development
+		{8B44DE8A-20AA-4D5C-8418-96C1193AD12D}.Development|Default.Build.0 = Development
+		{8B44DE8A-20AA-4D5C-8418-96C1193AD12D}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {731C1E24-239B-4039-A381-B070BE58AD06}
+	EndGlobalSection
+EndGlobal
